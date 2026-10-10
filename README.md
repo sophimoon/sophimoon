@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @sophimoon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sofya!
+- I'm a student of Design and Promotion of Digital Products program.
+- 🌱 I’m currently learning JS.
+
 
 <!---
 sophimoon/sophimoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
